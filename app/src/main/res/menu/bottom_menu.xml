@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_issues"
+        android:title="Issues"
+        android:icon="@drawable/ic_issue" />
+    <item
+        android:id="@+id/nav_reminders"
+        android:title="Reminders"
+        android:icon="@drawable/ic_reminder" />
+    <item
+        android:id="@+id/nav_timetable"
+        android:title="Timetable"
+        android:icon="@drawable/ic_timetable" />
+</menu>
+

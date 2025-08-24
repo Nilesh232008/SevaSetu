@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701691587640",
+    "project_id": "seva-setu-4d583",
+    "storage_bucket": "seva-setu-4d583.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701691587640:android:10276f541e8f5cebf5cacd",
+        "android_client_info": {
+          "package_name": "com.v2v.sevasetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2B4mu3qzghZJFFav4orIvqAlpmhz-a4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
